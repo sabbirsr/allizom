@@ -1,7 +1,7 @@
 /*
  * Course Code 350
  *
- * A Multithreaded Tiny HTTP Server
+ * A Mthreaded Tiny HTTP Server
  * Demonstrating Thread Pool Management
  * Following the Thread Pool Management
  * Outline from Unix Network Programming Vol 1
